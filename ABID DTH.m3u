@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc71zKf/20240430-205101.png"group-title="BANGLADASHI CHANNEL", BTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z8mk4Qj/20240507-010236.png"group-title="BANGLADASHI CHANNEL", zee bangla চেপটা লোগো
 http://xtv.ooo:8080/Sehrish/12345/245893
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/6vFtCpN/20240430-230414.png"group-title="BANGLADASHI CHANNEL", BTV WORLD
+#EXTINF:-2 tvg-logo="https://i.ibb.co/5BY25tQ/20240507-010136.png"group-title="BANGLADASHI CHANNEL", Akash aath চেপটা লোগো
 http://xtv.ooo:8080/Sehrish/12345/245893
 
-#EXTINF:-3 tvg-logo="https://i.ibb.co/tPf72jk/20240502-081709.png"group-title="BANGLADASHI CHANNEL", SANGSAD TV
+#EXTINF:-3 tvg-logo="https://i.ibb.co/VwNr4Hj/20240507-010017.png"group-title="BANGLADASHI CHANNEL", Zee bangla চারকনা লোগো
 http://xtv.ooo:8080/Sehrish/12345/245893
 
-#EXTINF:-4 tvg-logo="https://i.ibb.co/JdBx7PM/20240430-222409.png"group-title="BANGLADASHI CHANNEL", ATN BANGLA
+#EXTINF:-4 tvg-logo="https://i.ibb.co/Tqrgcrj/20240507-005932.png"group-title="BANGLADASHI CHANNEL", Akash aath চারকনা লোগো
 https://vodmprod-cdn.toffeelive.com/d6155f212e0a387ce5ba5e8c29e49136/576/sub_index.m3u8
